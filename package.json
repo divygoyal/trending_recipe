@@ -11,6 +11,10 @@
     "mongodb": "^5.1.0",
     "mongoose": "^6.10.0"
   },
+  "engines": {
+    "node": ">=14 <15"
+  },
+  
   "name": "cooking",
   "version": "1.0.0",
   "main": "index.js",
